@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117502055684",
+    "project_id": "smart-b9daa",
+    "storage_bucket": "smart-b9daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117502055684:android:a0bb3d4b1c810f0f542c51",
+        "android_client_info": {
+          "package_name": "com.example.shopping_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCph3nUp0MAjcAI_jL2XwVyQ9b3tdO2U8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
